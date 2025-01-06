@@ -1,0 +1,20 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "AB Construction Co.",
+    "description": "Professional construction, roofing, welding, painting, swimming pool cleaning and renovation services.",
+    "telephone": "+263 777 561 691",
+    "address": {
+        "@type": "00263",
+        "addressLocality": "Harare",
+        "addressRegion": "Mashonaland Central",
+        "postalCode": "12345",
+        "streetAddress": "11933 Rockdale Park"
+    },
+    "url": "https://abconstruction.com",
+    "sameAs": [
+        "https://www.facebook.com/ABConstruction",
+        "https://www.instagram.com/ABConstruction",
+        "https://twitter.com/ABConstruction"
+    ]
+}
